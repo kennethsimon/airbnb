@@ -1,0 +1,23 @@
+.card-image img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+.homes{
+  width: 100%;
+  position: relative;
+}
+.apartment{
+  color: red;
+}
+.condo{
+  color: blue;
+}
+.loader{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
